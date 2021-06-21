@@ -1,6 +1,6 @@
 # sample-form
 
-Published on
+## Published on
 https://horigy.github.io/ngerasimov.github.io/sample-form-vue/
 
 ## Project setup
